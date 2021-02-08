@@ -1,2 +1,7 @@
 # Treasure-Hunt-Game
-A treasure girl
+This is a Treasure hunt game.
+Single Player
+Moving enemies
+One Gold Tresure🎁👑🏆
+
+
