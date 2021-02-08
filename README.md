@@ -1,5 +1,5 @@
 # Treasure-Hunt-Game
-This is a Treasure hunt game.
+This is a Treasure hunt.
 
 Single Player,
 
